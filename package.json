@@ -1,0 +1,35 @@
+{
+  "name": "nodeauthsample",
+  "version": "1.0.0",
+  "description": "A sample Node.js project that uses OAuth",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxm1972/NodeAuthSample.git"
+  },
+  "keywords": [
+    "node.js",
+    "oauth"
+  ],
+  "author": "Sundeep Mallya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sxm1972/NodeAuthSample/issues"
+  },
+  "homepage": "https://github.com/sxm1972/NodeAuthSample#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^2.0.0",
+    "gulp-nodemon": "^2.0.6",
+    "jscs": "^2.9.0",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0"
+  }
+}
