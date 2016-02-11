@@ -1,0 +1,27 @@
+{
+  "name": "nodeauthsample",
+  "description": "A sample Node.js project that uses OAuth",
+  "main": "server.js",
+  "authors": [
+    "Sundeep Mallya"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node.js",
+    "oauth"
+  ],
+  "homepage": "https://github.com/sxm1972/NodeAuthSample",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
